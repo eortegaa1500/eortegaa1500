@@ -6,7 +6,7 @@ Here are some things about me (I'm just filling what the page told me to fill ðŸ
 
 Most of the time, I'm working on my final University project. I'm developing a machine that can detect whether the bottles placed inside are made of PET (Polyethylene terephthalate) or not. We hope to encourage our school community to recycle and assist recycling plants in separating waste. If everything goes well, by December of this year (2023), I will finally graduate from University! ðŸ¥³
 
-Here are some pictures of my and my lab partner (Horus) working on our project:
+Here are some pictures of my lab partner (Horus) and me, working on our project:
 
 ![10DAB5F1-3A16-4AC9-AA37-A34E4AC13885_Original](https://github.com/eortegaa1500/eortegaa1500/assets/52631711/15306df9-be7b-469d-806f-dda672155b99 | width=100)
 
