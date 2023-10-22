@@ -1,4 +1,11 @@
-### Hello everyone I'm Lalo. Welcome to my GitHub!
+### Hello everyone I'm Lalo. Welcome to my GitHub! 🤠
+
+Here are some things about me (I'm just filling what the page told me to fill 😂 ):
+
+## 🔭 I'm currently working on...
+
+Most of the time, I'm working on my final University project. I'm developing a machine that can detect whether the bottles placed inside are made of PET (Polyethylene terephthalate) or not. We hope to encourage our school community to recycle and assist recycling plants in separating waste. If everything goes well, by December of this year (2023), I will finally graduate from University! 🥳
+
 
 <!--
 **eortegaa1500/eortegaa1500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
